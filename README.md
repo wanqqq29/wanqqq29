@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+💻 瞎折腾专业前端实习生 🤖
+
+👻 什么都搞，什么都折腾 👍
+
+📫 : blog.wanqqq29.cn
+
+📧 : wanqqq29@gmail.com
 <!--
 **wanqqq29/wanqqq29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
