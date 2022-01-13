@@ -4,7 +4,7 @@
 
 👻 什么都搞，什么都折腾 👍
 
-📫 : <a href='blog.wanqqq29.cn' target="_blank">blog.wanqqq29.cn</a>
+📫 : <a href='https://waqqq29.github.io' target="_blank">blog.wanqqq29.cn</a>
 
 📧 : wanqqq29@gmail.com
 <!--
