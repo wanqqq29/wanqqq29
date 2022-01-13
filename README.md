@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wanqqq29&show_icons=true">
 
 💻 瞎折腾专业前端实习生 🤖
 
