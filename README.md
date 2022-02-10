@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wanqqq29&show_icons=true">
-
 
 💻 瞎折腾专业前端实习生 🤖
 
@@ -9,7 +7,10 @@
 📫 : <a href='https://wanqqq29.github.io' target="_blank">blog.wanqqq29.cn</a>
 
 📧 : wanqqq29@gmail.com
-
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=wanqqq29&count_private=true&include_all_commits=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanqqq29&layout=compact" />
+</div>
 <!--
 **wanqqq29/wanqqq29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
