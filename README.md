@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wanqqq29&show_icons=true">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 💻 瞎折腾专业前端实习生 🤖
 
@@ -9,6 +9,9 @@
 📫 : <a href='https://wanqqq29.github.io' target="_blank">blog.wanqqq29.cn</a>
 
 📧 : wanqqq29@gmail.com
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wanqqq29&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **wanqqq29/wanqqq29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
