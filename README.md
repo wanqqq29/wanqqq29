@@ -10,8 +10,6 @@
 
 📧 : wanqqq29@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wanqqq29&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **wanqqq29/wanqqq29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
