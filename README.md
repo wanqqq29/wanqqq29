@@ -3,7 +3,7 @@
 
 👻 什么都搞，什么都折腾 👍
 
-📫 : <a href="https://blog.csdn.net/weixin_43815091?type=blog"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>|<a href='https://wanqqq29.github.io' target="_blank"><img src="https://img.shields.io/badge/CSDN-000000" alt="github"></a>
+📫 : <a href="https://blog.csdn.net/weixin_43815091?type=blog"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>|<a href='https://wanqqq29.github.io' target="_blank"><img src="https://img.shields.io/badge/github-000000" alt="github"></a>
 
 📧 : wanqqq29@gmail.com
 
